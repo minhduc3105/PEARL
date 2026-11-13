@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# R2S100K PEARL inference artifacts
+.venv-pearl/

@@ -1,0 +1,12 @@
+torch==2.1.0
+torchvision==0.16.0
+mmengine==0.10.7
+mmsegmentation==1.2.2
+numpy<2
+Pillow
+matplotlib
+ftfy
+regex
+tqdm
+setuptools<81
+# Install MMCV 2.1.0 full wheel matching your CUDA and Torch build separately.

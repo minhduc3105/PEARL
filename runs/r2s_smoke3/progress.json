@@ -1,0 +1,14 @@
+{
+  "/run/media/minhduc/D/Study/r2s100k/train/1.GH011220 0171.jpg": {
+    "confidence": "862ff17ac457340b56ea7846f5a3cd4eb3feb393fb1b5e5baa8375b790164af4",
+    "mask": "b8793c3c6d86e3ebb8d8cd5c238f5a3e9dc9f30f352dd55c725685efddfa7741"
+  },
+  "/run/media/minhduc/D/Study/r2s100k/train/1.GH011220 0173.jpg": {
+    "confidence": "a7e24099f4b678639fdc0b21d21b70a437da66f2aa4afe45d58c269700560e4c",
+    "mask": "4728e30930b67d340185d322fe3d5e0183b852783ea18189f2e1a5de06801851"
+  },
+  "/run/media/minhduc/D/Study/r2s100k/train/1.GH011220 0175.jpg": {
+    "confidence": "68927b83677e822397413e98ec552e0b1c778e8f5a99cb0f3dc5ec6b6c63f9b0",
+    "mask": "9877f5d92caa0c47e7b5851ffea579cd77a7afed4d0eab74f623c3b75bed6ef2"
+  }
+}

@@ -1,0 +1,596 @@
+{
+  "ece_15_bins": 0.23081120027926724,
+  "evaluated_classes_15": 9,
+  "evaluated_classes_road": 8,
+  "evaluated_images": 3,
+  "frequency_weighted_iou": 0.6825191369662862,
+  "mean_class_accuracy": 0.19515864545952544,
+  "miou_15": 0.12507577704362602,
+  "miou_road_14": 0.03592533017289217,
+  "pixel_accuracy": 0.6985706018518518,
+  "thresholds": [
+    {
+      "coverage": 1.0,
+      "per_class": [
+        {
+          "correct_gt_coverage": 0.8486503992383162,
+          "id": 0,
+          "precision": 0.9856312337242025,
+          "predicted_coverage": 0.6752570408950618
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 1,
+          "precision": 0.0,
+          "predicted_coverage": 0.00026282793209876545
+        },
+        {
+          "correct_gt_coverage": 0.13609653316729303,
+          "id": 2,
+          "precision": 0.9936343218963091,
+          "predicted_coverage": 0.023762860082304528
+        },
+        {
+          "correct_gt_coverage": 0.37519319631916426,
+          "id": 3,
+          "precision": 0.04429968097341944,
+          "predicted_coverage": 0.17177260159465021
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 4,
+          "precision": 0.0,
+          "predicted_coverage": 0.07894820601851851
+        },
+        {
+          "correct_gt_coverage": 0.086835960303561,
+          "id": 5,
+          "precision": 1.0,
+          "predicted_coverage": 0.0003825874485596708
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 6,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.11449307464786897,
+          "id": 7,
+          "precision": 0.028470246696777453,
+          "predicted_coverage": 0.04961387602880658
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 8,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 9,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 10,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 11,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 12,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 13,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 14,
+          "precision": null,
+          "predicted_coverage": 0.0
+        }
+      ],
+      "retained_accuracy": 0.6985706018518518,
+      "threshold": 0.0
+    },
+    {
+      "coverage": 0.4079798418209877,
+      "per_class": [
+        {
+          "correct_gt_coverage": 0.519960890940452,
+          "id": 0,
+          "precision": 0.9995090547096666,
+          "predicted_coverage": 0.4079798418209877
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 1,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 2,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 3,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 4,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 5,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 6,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 7,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 8,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 9,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 10,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 11,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 12,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 13,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 14,
+          "precision": null,
+          "predicted_coverage": 0.0
+        }
+      ],
+      "retained_accuracy": 0.9995090547096666,
+      "threshold": 0.5
+    },
+    {
+      "coverage": 0.2629411008230453,
+      "per_class": [
+        {
+          "correct_gt_coverage": 0.3352769661372527,
+          "id": 0,
+          "precision": 1.0,
+          "predicted_coverage": 0.2629411008230453
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 1,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 2,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 3,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 4,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 5,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 6,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 7,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 8,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 9,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 10,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 11,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 12,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 13,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 14,
+          "precision": null,
+          "predicted_coverage": 0.0
+        }
+      ],
+      "retained_accuracy": 1.0,
+      "threshold": 0.7
+    },
+    {
+      "coverage": 0.16789641203703703,
+      "per_class": [
+        {
+          "correct_gt_coverage": 0.21408520568639167,
+          "id": 0,
+          "precision": 1.0,
+          "predicted_coverage": 0.16789641203703703
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 1,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 2,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 3,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 4,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 5,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 6,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 7,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 8,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 9,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 10,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 11,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 12,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 13,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 14,
+          "precision": null,
+          "predicted_coverage": 0.0
+        }
+      ],
+      "retained_accuracy": 1.0,
+      "threshold": 0.8
+    },
+    {
+      "coverage": 0.04899466306584362,
+      "per_class": [
+        {
+          "correct_gt_coverage": 0.062473238068201035,
+          "id": 0,
+          "precision": 1.0,
+          "predicted_coverage": 0.04899466306584362
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 1,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 2,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 3,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 4,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 5,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 6,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 7,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 8,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 9,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 10,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 11,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 12,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 13,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 14,
+          "precision": null,
+          "predicted_coverage": 0.0
+        }
+      ],
+      "retained_accuracy": 1.0,
+      "threshold": 0.9
+    },
+    {
+      "coverage": 0.0100927533436214,
+      "per_class": [
+        {
+          "correct_gt_coverage": 0.012869299285767726,
+          "id": 0,
+          "precision": 1.0,
+          "predicted_coverage": 0.0100927533436214
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 1,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 2,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 3,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 4,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 5,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 6,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 7,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": 0.0,
+          "id": 8,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 9,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 10,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 11,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 12,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 13,
+          "precision": null,
+          "predicted_coverage": 0.0
+        },
+        {
+          "correct_gt_coverage": null,
+          "id": 14,
+          "precision": null,
+          "predicted_coverage": 0.0
+        }
+      ],
+      "retained_accuracy": 1.0,
+      "threshold": 0.95
+    }
+  ],
+  "total_pixels": 6220800
+}
